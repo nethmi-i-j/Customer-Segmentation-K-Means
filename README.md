@@ -44,6 +44,8 @@ Plotted the 5 customer segments with centroids on a scatter plot
 
 ### Results
 
+![image alt](https://github.com/nethmi-i-j/Customer-Segmentation-K-Means/blob/fcf4d35276cc6ac6481eed78844658d45c6c3134/clusters.JPG)
+
 **Key Insights**
 
 * Red (High Income, High Spending): Most valuable customers — give them premium/loyalty offers to retain them.
