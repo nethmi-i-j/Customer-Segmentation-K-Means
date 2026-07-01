@@ -58,3 +58,10 @@ Plotted the 5 customer segments with centroids on a scatter plot
 
 * Blue (Low Income, Low Spending): Least profitable — low marketing priority.
 
+### Tech Stack
+
+Python | Scikit-learn | Matplotlib | Seaborn 
+
+
+
+
